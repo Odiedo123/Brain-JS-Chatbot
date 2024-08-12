@@ -1,0 +1,253 @@
+[
+    {
+        "input": {
+            "hello": 1,
+            "hey": 1,
+            "hi": 1
+        },
+        "output": {
+            "greeting": 1
+        }
+    },
+    {
+        "input": {
+            "how": 1,
+            "are": 1,
+            "you": 1
+        },
+        "output": {
+            "status": 1
+        }
+    },
+    {
+        "input": {
+            "what": 1,
+            "your": 1,
+            "name": 1
+        },
+        "output": {
+            "identity": 1
+        }
+    },
+    {
+        "input": {
+            "bye": 1,
+            "later": 1
+        },
+        "output": {
+            "farewell": 1
+        }
+    },
+    {
+        "input": {
+            "thanks": 1,
+            "helpful": 1
+        },
+        "output": {
+            "gratitude": 1
+        }
+    },
+    {
+        "input": {
+            "speed": 1,
+            "light": 1
+        },
+        "output": {
+            "light": 1
+        }
+    },
+    {
+        "input": {
+            "gravity": 1,
+            "earth": 1
+        },
+        "output": {
+            "earth": 1
+        }
+    },
+    {
+        "input": {
+            "black": 1,
+            "hole": 1
+        },
+        "output": {
+            "blackhole": 1
+        }
+    },
+    {
+        "input": {
+            "periodic": 1,
+            "table": 1
+        },
+        "output": {
+            "periodictable": 1
+        }
+    },
+    {
+        "input": {
+            "dna": 1,
+            "genetic": 1
+        },
+        "output": {
+            "dna": 1
+        }
+    },
+    {
+        "input": {
+            "largest": 1,
+            "country": 1
+        },
+        "output": {
+            "size": 1
+        }
+    },
+    {
+        "input": {
+            "the": 1,
+            "capital": 1,
+            "france": 1
+        },
+        "output": {
+            "france": 1
+        }
+    },
+    {
+        "input": {
+            "who": 1,
+            "wrote": 1,
+            "hamlet": 1
+        },
+        "output": {
+            "hamlet": 1
+        }
+    },
+    {
+        "input": {
+            "chemical": 1,
+            "symbol": 1,
+            "water": 1
+        },
+        "output": {
+            "water": 1
+        }
+    },
+    {
+        "input": {
+            "what": 1,
+            "red": 1,
+            "planet": 1
+        },
+        "output": {
+            "mars": 1
+        }
+    },
+    {
+        "input": {
+            "when": 1,
+            "world": 1,
+            "war": 1
+        },
+        "output": {
+            "war2": 1
+        }
+    },
+    {
+        "input": {
+            "do": 1,
+            "you": 1,
+            "know": 1,
+            "pi": 1
+        },
+        "output": {
+            "pi": 1
+        }
+    },
+    {
+        "input": {
+            "can": 1,
+            "artist": 1,
+            "mona": 1,
+            "lisa": 1
+        },
+        "output": {
+            "lisa": 1
+        }
+    },
+    {
+        "input": {
+            "can": 1,
+            "name": 1,
+            "biggest": 1,
+            "continent": 1
+        },
+        "output": {
+            "asia": 1
+        }
+    },
+    {
+        "input": {
+            "which": 1,
+            "famous": 1,
+            "river": 1,
+            "egypt": 1
+        },
+        "output": {
+            "nile": 1
+        }
+    },
+    {
+        "input": {
+            "who": 1,
+            "established": 1,
+            "microsoft": 1
+        },
+        "output": {
+            "microsoft": 1
+        }
+    },
+    {
+        "input": {
+            "can": 1,
+            "explain": 1,
+            "html": 1
+        },
+        "output": {
+            "html": 1
+        }
+    },
+    {
+        "input": {
+            "could": 1,
+            "name": 1,
+            "writter": 1,
+            "behind": 1,
+            "pride": 1,
+            "prejudice": 1
+        },
+        "output": {
+            "pride": 1
+        }
+    },
+    {
+        "input": {
+            "how": 1,
+            "many": 1,
+            "players": 1,
+            "football": 1
+        },
+        "output": {
+            "playf": 1
+        }
+    },
+    {
+        "input": {
+            "which": 1,
+            "sport": 1,
+            "beautiful": 1,
+            "game": 1
+        },
+        "output": {
+            "football": 1
+        }
+    }
+]
