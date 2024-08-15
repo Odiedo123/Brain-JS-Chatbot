@@ -1,1 +1,2 @@
 # Brain-JS-Chatbot
+In this project I used Neural Networks in Brain JS and a bunch of training data to make a complex chat bot which main function is to answer science questions and others in between. Enjoy!
